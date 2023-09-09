@@ -3,7 +3,6 @@ Deep Fakes using Keras/tensorflow and MNIST dataset(Coursera supervision)
 
 # MNIST GAN: Generative Adversarial Network for Digit '0' Generation
 
-![Generated '0'](sample_generated_image.png)
 
 This repository contains a Python script that implements a Generative Adversarial Network (GAN) for generating images of the digit '0' from the MNIST dataset. GANs consist of two neural networks, a generator, and a discriminator, that are trained simultaneously through a competitive process. The generator aims to produce realistic images, while the discriminator aims to distinguish between real and generated images. This competition drives both networks to improve their performance over time.
 
