@@ -17,7 +17,7 @@ Before running the code, ensure you have the following dependencies installed:
 
 You can install these libraries using pip:
 
-'''bash
+'''bash'''
 pip install tensorflow numpy matplotlib pillow
 ## Code Structure
 
