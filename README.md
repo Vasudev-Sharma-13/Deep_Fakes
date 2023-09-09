@@ -17,7 +17,7 @@ Before running the code, ensure you have the following dependencies installed:
 
 You can install these libraries using pip:
 
-```bash
+**bash**
 pip install tensorflow numpy matplotlib pillow
 ## Code Structure
 
@@ -41,7 +41,5 @@ The GAN combines the generator and discriminator into a single model. During tra
 
 The code trains the GAN through a series of epochs. In each epoch, it iterates through the dataset, training the discriminator and generator alternately. At the end of each epoch, it generates and displays a sample image to visualize the progress.
 
-## License
 
-This code is available under the MIT License.
 
